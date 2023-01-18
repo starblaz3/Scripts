@@ -1,0 +1,1143 @@
+@ARTICLE{Bala2018,
+	AUTHOR = {Balakumar Chandrasekaran and Sara Nidal Abed and Omar Al-Attraqchi and Kaushik Kuche and Rakesh K. Tekade},
+	title = {Chapter 21 - Computer-Aided Prediction of Pharmacokinetic (ADMET) Properties},
+    booktitle = {Dosage Form Design Parameters},
+    JOURNAL = {Academic Press},
+    pages = {731-755},
+    year = {2018},
+}
+
+@ARTICLE{FEFPIA2016,
+	TITLE = {Good Practices in Model-Informed Drug Discovery and Development: Practice, Application, and Documentation.},
+	AUTHOR = {FEFPIA, M.; Marshall, S.; Burghaus, R.; Cosson, V.; Cheung, S.; Chenel, M.; Dellapasqua, O.; Frey, N.; Hamrén, B.; Harnisch, L. },
+	JOURNAL= {CPT Pharm. Syst. Pharmacol.},
+	VOLUME = {5},
+	NUMBER = {},
+	PAGES = {93–122},
+	YEAR = {2016},
+}
+
+@article{mullard2016biotech,
+  title={Biotech R\&D spend jumps by more than 15\%},
+  author={Mullard, Asher},
+  journal={Nature Reviews Drug Discovery},
+  volume={15},
+  number={7},
+  pages={447--448},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+}
+
+@ARTICLE{Bernard2005,
+	AUTHOR = {Bernard D, Coop A, MacKerell AD Jr},
+	TITLE = {Conformationally sampled pharmacophore for peptidic delta
+    opioid ligands},
+	JOURNAL = {J. Med. Chem},
+	VOLUME = {48},
+	NUMBER = {24},
+	PAGES = {73–80},
+	YEAR= {2005}
+}
+
+@ARTICLE{Duchowicz2005,
+	AUTHOR = {Duchowicz, Pablo and Castro, Eduardo and Fernández, Francisco and Gonzalez, Maykel},
+	TITLE = {{A new search algorithm of QSPR/QSAR theories: Normal boiling points of some organic molecules}},
+	JOURNAL = {Chemical Physics Letters},
+	VOLUME = {412},
+	NUMBER = {},
+	PAGES = {376-380},
+	YEAR= {2005}
+}
+
+@ARTICLE{Wade2004,
+	AUTHOR = {Wade RC, Henrich S, Wang T},
+	TITLE = {{Using 3D protein structures to derive 3D-QSARs}},
+	JOURNAL = {Drug Discovery Today: Technologies},
+	VOLUME = {1},
+	NUMBER = {},
+	PAGES = {241-246},
+	YEAR= {2004}
+}
+
+@ARTICLE{Acharya2011,
+	AUTHOR = {Acharya C, Coop A, Polli JE, Mackerell AD Jr},
+	TITLE = {{Recent advances in ligand-based drug design: relevance and utility of the conformationally sampled pharmacophore approach.}},
+	JOURNAL = {Curr Comput Aided Drug Des.},
+	VOLUME = {7},
+	NUMBER = {1},
+	PAGES = {11-22},
+	YEAR= {2011}
+}
+
+@ARTICLE{Bohl2004,
+	AUTHOR = {Bohl CE, Chang C, Mohler ML, Chen J, Miller DD, Swaan PW, Dalton JT.},
+	TITLE = {{A ligand-based approach to identify quantitative structure-activity relationships for the androgen receptor}},
+	JOURNAL = {J. Med. Chem},
+	VOLUME = {47},
+	NUMBER = {15},
+	PAGES = {3765–76},
+	YEAR= {2004}
+}
+
+@ARTICLE{Winkler2004,
+	AUTHOR = {Winkler, David Alan},
+	TITLE = {{Overview of Quantitative Structure–Activity Relationships (QSAR)}},
+	Book = {Molecular Analysis and Genome Discovery},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {347--367},
+	YEAR= {2004}
+}
+
+@ARTICLE{Topliss1979,
+	AUTHOR = {Topliss JG, Edwards RP},
+	TITLE = {{Chance factors in studies of quantitative structure-activity relationships}},
+	JOURNAL = {J. Med. Chem},
+	VOLUME = {22},
+	NUMBER = {10},
+	PAGES = {1238–1244},
+	YEAR= {1979}
+} 
+
+
+
+@ARTICLE{Hawkins2001,
+	AUTHOR = {Hawkins DM, Basak SC, Shi X},
+	TITLE = {{QSAR with few compounds and many features.}},
+	JOURNAL = {J Chem Inform Comput Sci },
+	VOLUME = {41},
+	NUMBER = {3},
+	PAGES = {663–670},
+	YEAR= {2001}
+
+} 
+  
+@ARTICLE{Gleeson2012,
+	AUTHOR = {Gleeson MP, Modi S, Bender A, Robinson RLM, Kirchmair J, Promkat-
+    kaew M, Hannongbua S, Glen RC},
+	TITLE = {{The challenges involved in modeling toxicity data in silico: a review}},
+	JOURNAL = {Curr Pharm Des},
+	VOLUME = {18},
+	NUMBER = {9},
+	PAGES = {1266–1291},
+	YEAR= {2012}
+}   
+    
+
+@ARTICLE{Konovalov2008,
+	AUTHOR = {Konovalov DA, Llewellyn LE, Vander Heyden Y, Coomans D},
+	TITLE = {{Robust cross-validation of linear regression QSAR models.}},
+	JOURNAL = {J Chem Inform Model},
+	VOLUME = {48},
+	NUMBER = {10},
+	PAGES = {2081–2094},
+	YEAR= {2008}
+} 
+
+@ARTICLE{Jaechang2018,
+	AUTHOR = { Jaechang Lim, Seongok Ryu, Jin Woo Kim, and Woo Youn Kim},
+	TITLE = {{Molecular generative model based on conditional vari-
+    ational autoencoder for de novo molecular design}},
+	JOURNAL = {Journal of Cheminformatics},
+	VOLUME = {10},
+	NUMBER = {1},
+	PAGES = {},
+	YEAR= {2018}
+} 
+   
+@ARTICLE{Seokho2018,
+	AUTHOR = {Seokho Kang and Kyunghyun Cho},
+	TITLE = {{Conditional molecular design with deep generative models}},
+	JOURNAL = {Journal of Chemical Information and Modeling},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}    
+   
+   
+@ARTICLE{Shahar2018,
+	AUTHOR = { Shahar Harel and Kira Radinsky},
+	TITLE = {{Prototype-based compound discovery using deep generative models}},
+	JOURNAL = {Molecular Pharmaceutics},
+	VOLUME = {15},
+	NUMBER = {10},
+	PAGES = {4406–4416},
+	YEAR= {2018}
+}    
+
+@ARTICLE{Gomez-Bombarelli2018,
+	AUTHOR = {Rafael Gómez-Bombarelli, Jennifer N. Wei, David Duvenaud, José Miguel Hernández-Lobato, Benjamín Sánchez Lengeling, Dennis Sheberla, Jorge Aguilera-Iparraguirre, Timothy D. Hirzel, Ryan P. Adams, and Alán Aspuru-Guzik},
+	TITLE = {{Automatic chemical design using a data-driven continuous representation of molecules.}},
+	JOURNAL = {ACS Central Science},
+	VOLUME = {4},
+	NUMBER = {2},
+	PAGES = {268–276},
+	YEAR= {2018}
+}   
+  
+@ARTICLE{Blaschke2017,
+	AUTHOR = {Thomas Blaschke, Marcus Olivecrona, Ola Engkvist, Jürgen Bajorath, and Hongming Chen},
+	TITLE = {{Application of generative autoencoder in de novo molecular design}},
+	JOURNAL = {Molecular Informatics},
+	VOLUME = {37},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2017}
+}   
+    
+@ARTICLE{Sattarov2019,
+	AUTHOR = {Boris Sattarov, Igor I. Baskin, Dragos Horvath, Gilles Marcou, Esben Jannik Bjerrum, and Alexandre Varnek},
+	TITLE = {{De novo molecular design by combining deep autoencoder recurrent neural networks with generative topographic mapping}},
+	JOURNAL = {Journal of Chemical Information and Modeling},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2019}
+} 
+
+@ARTICLE{LENGAUER1996,
+	AUTHOR = {Thomas Lengauer and Matthias Rarey},
+	TITLE = {{Computational methods for biomolecular docking}},
+	JOURNAL = {Current Opinion in Structural Biology},
+	VOLUME = {6},
+	NUMBER = {3},
+	PAGES = {402-406},
+	YEAR= {1996}
+}
+
+@ARTICLE{Parvu2003,
+	AUTHOR = {Parvu L},
+	TITLE = {{QSAR - a piece of drug design}},
+	JOURNAL = {J Cell Mol Med},
+	VOLUME = {7},
+	NUMBER = {3},
+	PAGES = {},
+	YEAR= {2003}
+}
+
+@ARTICLE{PDB2003,
+	AUTHOR = {},
+	TITLE = {{Research Collaboratory for Structural Bioinformatics (2019), The Protein Data Bank (PDB)}},
+	JOURNAL = {},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2019}
+}
+
+ 
+@ARTICLE{TJ2001,
+	AUTHOR = {Ewing TJ, Makino S, Skillman AG, Kuntz ID },
+	TITLE = {{search strategies for automated molecular docking of flexible molecule databases}},
+	JOURNAL = {J Comput Aided Mol Des},
+	VOLUME = {15},
+	NUMBER = {5},
+	PAGES = {411–428},
+	YEAR= {2001}
+} 
+ 
+@ARTICLE{DS1990,
+	AUTHOR = {Goodsell DS, Olson AJ  },
+	TITLE = {{Automated docking of substrates to proteins by simulated annealing}},
+	JOURNAL = {Proteins},
+	VOLUME = {8},
+	NUMBER = {3},
+	PAGES = {195–202},
+	YEAR= {1990}
+}   
+
+@ARTICLE{Wang2004,
+	AUTHOR = {Wang J, Wolf RM, Caldwell JW, Kollman PA, Case DA},
+	TITLE = {{Development and testing of a general amber force field}},
+	JOURNAL = {J Comput Chem},
+	VOLUME = {25},
+	NUMBER = {},
+	PAGES = {1157–74},
+	YEAR= {2004}
+}   
+
+@ARTICLE{Vanommeslaeghe2010,
+	AUTHOR = {Vanommeslaeghe K, Hatcher E, Acharya C, Kundu S, Zhong S, et al},
+	TITLE = {{CHARMM general force field: a force field for drug-like molecules compatible with the CHARMM all-atom additive biological force fields}},
+	JOURNAL = {J Comput Chem},
+	VOLUME = {31},
+	NUMBER = {},
+	PAGES = {671–90},
+	YEAR= {2010}
+} 
+
+@ARTICLE{Hou2010,
+	AUTHOR = {Hou T, Wang J, Li Y, Wang W},
+	TITLE = {{Assessing the performance of the MM/PBSA and MM/ GBSA methods. 1. The accuracy of binding free energy calculations based on molecular dynamics simulations.}},
+	JOURNAL = {J Chem Inf Model},
+	VOLUME = {51},
+	NUMBER = {},
+	PAGES = {69–82},
+	YEAR= {2010}
+} 
+
+@ARTICLE{Hansson1998,
+	AUTHOR = {Hansson T, Marelius J, Åqvist J},
+	TITLE = {{Ligand binding affinity prediction by linear interaction energy methods}},
+	JOURNAL = {J Comput Aided Mol Des},
+	VOLUME = {12},
+	NUMBER = {},
+	PAGES = {27–35},
+	YEAR= {1998}
+} 
+
+@ARTICLE{Singh1987,
+	AUTHOR = {Singh UC, Brown FK, Bash PA, Kollman PA},
+	TITLE = {{An approach to the application of free energy perturbation methods using molecular dynamics: applications to the transformations of CH_3OH – N CH 3 CH 3 , H 3 O + − N NH + 4 , glycine – N alanine, and alanine- phenylalanine in aqueous solution and to H 3 O + (H_2 O) 3 – N NH + 4 (H 2 O) 3 in the gas phase.}},
+	JOURNAL = {J Am Chem Soc},
+	VOLUME = {109},
+	NUMBER = {},
+	PAGES = {1607–14},
+	YEAR= {1987}
+} 
+
+
+
+ 
+
+@ARTICLE{Eswar2006,
+	AUTHOR = {Eswar N, Webb B, Marti-Renom MA, Madhusudhan MS, Eramian D, et.al},
+	TITLE = {{Comparative protein structure modeling using MODELLER}},
+	JOURNAL = {Curr Protoc Protein Sci},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {1-5},
+	YEAR= {2006}
+}
+
+@ARTICLE{Schwede2003,
+	AUTHOR = {Schwede T, Kopp J, Guex N, Peitsch MC},
+	TITLE = {{SWISS-MODEL: an automated protein homology-modeling server}},
+	JOURNAL = {Nucleic Acids Res},
+	VOLUME = {31},
+	NUMBER = {},
+	PAGES = {3381–5},
+	YEAR= {2003}
+}
+
+
+@ARTICLE{Kusner2017,
+	AUTHOR = {M. J. Kusner, B. Paige, and J. M. Hernández-Lobato},
+	TITLE = {{Grammar Variational Autoencoder}},
+	JOURNAL = { arXiv e-prints:1703.01925},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2017}
+}
+
+@ARTICLE{Jorgensen2018,
+	AUTHOR = {Peter Bjørn Jørgensen, Murat Mesta, Suranjan Shil, Juan Maria García Lastra, Karsten Wedel Jacobsen, Kristian Sommer Thygesen, and Mikkel N. Schmidt},
+	TITLE = {{Machine learning-based screening of complex molecules for polymer solar cells}},
+	JOURNAL = {The Journal of Chemical Physics},
+	VOLUME = {148},
+	NUMBER = {24},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+
+@ARTICLE{peter2018,
+	AUTHOR = {Peter B. Jørgensen, Mikkel N. Schmidt, and Ole Winther},
+	TITLE = {{Deep generative models for molecular science}},
+	JOURNAL = {Molecular Informatics},
+	VOLUME = {37},
+	NUMBER = {},
+	PAGES = {1-2},
+	YEAR= {2018}
+}
+
+@ARTICLE{Dai2018,
+	AUTHOR = {Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, and Le Song},
+	TITLE = {{Syntax-directed variational autoencoder for structured data}},
+	JOURNAL = {arXiv e-prints:1802.08786},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+
+@ARTICLE{Liu2018,
+	AUTHOR = {Qi Liu, Miltiadis Allamanis, Marc Brockschmidt, and Alexander L. Gaunt},
+	TITLE = {{Constrained graph variational autoencoders for molecule design}},
+	JOURNAL = {arXiv e-prints:1805.09076},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Samanta2018,
+	AUTHOR = {Bidisha Samanta, Abir De, Niloy Ganguly, and Manuel Gomez-Rodriguez},
+	TITLE = {{Designing random graph models using variational autoencoders with applications to chemical design}},
+	JOURNAL = {arXiv e-prints:1802.05283},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Winter2018,
+	AUTHOR = {Robin Winter, Floriane Montanari, Frank NoeÌ A, and Djork-ArnÃl Clevert},
+	TITLE = {{Learning Continuous and Data-Driven Molecular Descriptors by Translating Equivalent Chemical Representations}},
+	JOURNAL = {ChemRxiv preprint},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+
+@ARTICLE{Kajino2018,
+	AUTHOR = {H. Kajino},
+	TITLE = {{Molecular Hypergraph Grammar with its Application to Molecular Optimization}},
+	JOURNAL = {arXiv e-prints:1803.03324},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Jin2018,
+	AUTHOR = {Wengong Jin, Regina Barzilay, and Tommi S. Jaakkola},
+	TITLE = {{Junction tree variational autoencoder for molecular graph generation}},
+	JOURNAL = {In International Conference on Learning Representations},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Jin2019,
+	AUTHOR = {Wengong Jin, Kevin Yang, Regina Barzilay, and Tommi Jaakkola},
+	TITLE = {{Learning Multimodal Graph-to-Graph Translation for Molecular Optimization}},
+	JOURNAL = {In International Conference on Learning Representations},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2019}
+}
+
+
+@ARTICLE{Bidisha2018,
+	AUTHOR = {Bidisha Samanta, Abir De, Gourhari Jana, Pratim Kumar Chattaraj, Niloy Ganguly, and Manuel Gomez-Rodriguez},
+	TITLE = {{NeVAE: A Deep Generative Model for Molecular Graphs}},
+	JOURNAL = {arXiv e-prints:1802.05283},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2019}
+}
+
+
+@ARTICLE{Simonovsky2018,
+	AUTHOR = {Martin Simonovsky and Nikos Komodakisz},
+	TITLE = {{Graphvae: Towards generation of small graphs using variational autoencoders}},
+	JOURNAL = {arXiv e-prints:1802.03480},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Ma2018,
+	AUTHOR = {Tengfei Ma, Jie Chen, and Cao Xiao},
+	TITLE = {{Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders}},
+	JOURNAL = {In Advances in Neural Information Processing Systems 32},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Skalic2019,
+	AUTHOR = {Miha Skalic, José Jiménez Luna, Davide Sabbadin, and Gianni De Fabritiis},
+	TITLE = {{Shape-based generative modeling for de-novo drug design}},
+	JOURNAL = {Journal of Chemical Information and Modeling, (ja)},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2019}
+}
+
+@ARTICLE{Kuzminykh2018,
+	AUTHOR = {Denis Kuzminykh, Daniil Polykovskiy, Artur Kadurin, Alexander Zhebrak, Ivan Baskov, Sergey Nikolenko, Rim Shayakhmetov, and Alex Zhavoronkov},
+	TITLE = {{3d molecular representations based on the wave transform for convolutional neural networks}},
+	JOURNAL = {Molecular Pharmaceutics},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Kearnes2019,
+	AUTHOR = {Steven M. Kearnes, Li Li, and Patrick Riley},
+	TITLE = {{Decoding molecular graph embeddings with reinforcement learning}},
+	JOURNAL = {arXiv e-prints:1904.08915},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2019}
+}
+
+@ARTICLE{Guimaraes2017,
+	AUTHOR = {G. Lima Guimaraes, B. Sanchez-Lengeling, C. Outeiral, P. L. Cunha Farias, and A. Aspuru-Guzik},
+	TITLE = {{Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models}},
+	JOURNAL = {arXiv e-prints:1705.10843},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2017}
+}
+
+
+@ARTICLE{Putin2018,
+	AUTHOR = {Evgeny Putin, Arip Asadulaev, Yan Ivanenkov, Vladimir Al-adinskiy, Benjamin Sanchez-Lengeling, Alán Aspuru-Guzik, and Alex Zhavoronkov},
+	TITLE = {{Reinforced adversarial neural computer for de novo molecular design}},
+	JOURNAL = {Journal of Chemical Information and Modeling},
+	VOLUME = {58},
+	NUMBER = {6},
+	PAGES = {1194–1204},
+	YEAR= {2018}
+}
+
+@ARTICLE{Evgeny2018,
+	AUTHOR = {Evgeny Putin, Arip Asadulaev, Quentin Vanhaelen, Yan Ivanenkov, Anastasia V. Aladinskaya, Alex Aliper, and Alex Zhavoronkov},
+	TITLE = {{Adversarial threshold neural computer for molecular de novo design}},
+	JOURNAL = {Molecular Pharmaceutics},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+
+@ARTICLE{Kadurin2017,
+	AUTHOR = {Artur Kadurin, Sergey Nikolenko, Kuzma Khrabrov, Alex Aliper, and Alex Zhavoronkov},
+	TITLE = {{druGAN: An advanced generative adversarial autoencoder model for de novo generation of new molecules with desired molecular properties in silico}},
+	JOURNAL = {Molecular Pharmaceutics},
+	VOLUME = {14},
+	NUMBER = {9},
+	PAGES = {3098–3104},
+	YEAR= {2017}
+}
+
+@ARTICLE{Mendez-Lucio2018,
+	AUTHOR = {Oscar Méndez-Lucio, Benoit Baillif, Djork-Arné Clevert, David Rouquié, and Joerg Wichard},
+	TITLE = {{De novo generation of hit-like molecules from gene expression signatures using artificial intelligence}},
+	JOURNAL = {ChemRxiv preprint},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Cao2018,
+	AUTHOR = {Nicola De Cao and Thomas Kipf},
+	TITLE = {{MolGAN: An implicit generative model for small molecular graphs}},
+	JOURNAL = {ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{DeCao2018,
+	AUTHOR = {N. De Cao and T. Kipf},
+	TITLE = {{MolGAN: An implicit generative model for small molecular graphs}},
+	JOURNAL = {arXiv e-prints:1805.11973},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Maziarka2020,
+	AUTHOR = {Łukasz Maziarka, Agnieszka Pocha, Jan Kaczmarczyk,
+    Krzysztof Rataj, and Michał Warchoł},
+	TITLE = {{Mol-cyclegan - a generative model for molecular optimization}},
+	JOURNAL = {Journal of Cheminformatics},
+	VOLUME = {12},
+	NUMBER = {},
+	PAGES = {1758-2946},
+	YEAR= {2020}
+}
+
+@ARTICLE{Merk2018,
+	AUTHOR = {Daniel Merk, Lukas Friedrich, Francesca Grisoni, and Gisbert Schneider},
+	TITLE = {{De novo design of bioactive small molecules by artificial intelligence}},
+	JOURNAL = {Molecular Informatics},
+	VOLUME = {37},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Daniel2018,
+	AUTHOR = {Daniel Merk, Francesca Grisoni, Lukas Friedrich, and Gisbert Schneider},
+	TITLE = {{Tuning artificial intelligence on the de novo design of natural-product-inspired retinoid X receptor modulators}},
+	JOURNAL = {Communications Chemistry},
+	VOLUME = {1},
+	NUMBER = {1},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Ertl2017,
+	AUTHOR = {P. Ertl, R. Lewis, E. Martin, and V. Polyakov},
+	TITLE = {{In silico generation of novel, drug-like chemical matter using the LSTM neural network}},
+	JOURNAL = {arXiv e-prints},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2017}
+}
+
+@ARTICLE{Neil2018,
+	AUTHOR = {Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, and Nathan
+    Brown},
+	TITLE = {{Exploring deep recurrent models with reinforcement learning for molecule design}},
+	JOURNAL = {In International Conference on Learning Representations},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+
+@ARTICLE{Popova2018,
+	AUTHOR = {Mariya Popova, Olexandr Isayev, and Alexander Tropsha},
+	TITLE = {{Deep reinforcement learning for de novo drug design}},
+	JOURNAL = {Science Advances},
+	VOLUME = {4},
+	NUMBER = {7},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Gupta,
+	AUTHOR = {Anvita Gupta, Alex T. Müller, Berend J. H. Huisman, Jens A.
+    Fuchs, Petra Schneider, and Gisbert Schneider},
+	TITLE = {{Generative recurrent networks for de novo drug design}},
+	JOURNAL = {Molecular Informatics},
+	VOLUME = {37},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2017}
+}
+
+@ARTICLE{Marwin2017,
+	AUTHOR = {Marwin H. S. Segler, Thierry Kogej, Christian Tyrchan, and Mark P. Waller},
+	TITLE = {{Generating focused molecule libraries for drug discovery with recurrent neural networks}},
+	JOURNAL = {ACS Central Science},
+	VOLUME = {4},
+	NUMBER = {1},
+	PAGES = {120–131},
+	YEAR= {2017}
+}
+
+@ARTICLE{Li2018,
+	AUTHOR = {Y. Li, O. Vinyals, C. Dyer, R. Pascanu, and P. Battaglia},
+	TITLE = {{Learning Deep Generative Models of Graphs}},
+	JOURNAL = {arXiv e-prints:1803.03324},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{pogany2018,
+	AUTHOR = {Peter Pogány, Navot Arad, Sam Genway, and Stephen D. Pickett},
+	TITLE = {{De novo molecule design by translating from reduced graphs to SMILES}},
+	JOURNAL = {Journal of Chemical Information and Modeling},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+@ARTICLE{Bjerrum2017,
+	AUTHOR = {E. Jannik Bjerrum and R. Threlfall},
+	TITLE = {{Molecular Generation with Recurrent Neural Networks (RNNs)}},
+	JOURNAL = {JarXiv e-prints:1705.04612},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2017}
+}
+
+@ARTICLE{Yang2017,
+	AUTHOR = {Xiufeng Yang, Jinzhe Zhang, Kazuki Yoshizoe, Kei Terayama, and Koji Tsuda},
+	TITLE = {{ChemTS: an efficient python library for de novo molecular generation}},
+	JOURNAL = {Science and Technology of Advanced Materials},
+	VOLUME = {18},
+	NUMBER = {1},
+	PAGES = {972–976},
+	YEAR= {2017}
+}
+
+@ARTICLE{Cherti2017,
+	AUTHOR = {Mehdi Cherti, Balázs Kégl, and Akın Kazakçı},
+	TITLE = {{De novo drug design with deep generative models: an empirical study}},
+	JOURNAL = {In International Conference on Learning Representations, work-shop track, Toulon, France},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2017}
+}
+
+@ARTICLE{Zheng2019,
+	AUTHOR = {Shuangjia Zheng, Xin Yan, Qiong Gu, Yuedong Yang, Yunfei Du, Yutong Lu, and Jun Xu},
+	TITLE = {{QBMG: quasi-biogenic molecule generator with deep recurrent neural network}},
+	JOURNAL = {Journal of Cheminformatics},
+	VOLUME = {11},
+	NUMBER = {1},
+	PAGES = {},
+	YEAR= {2019}
+}
+
+@ARTICLE{Olivecrona2017,
+	AUTHOR = {Marcus Olivecrona, Thomas Blaschke, Ola Engkvist, and Hongming Chen},
+	TITLE = {{Molecular de-novo design through deep re-inforcement learning}},
+	JOURNAL = {Journal of Cheminformatics},
+	VOLUME = {9},
+	NUMBER = {1},
+	PAGES = {},
+	YEAR= {2017}
+}
+
+@ARTICLE{Sumita2018,
+	AUTHOR = {Masato Sumita, Xiufeng Yang, Shinsuke Ishihara, Ryo Tamura, and Koji Tsuda},
+	TITLE = {{Hunting for organic molecules with artificial intelligence: Molecules optimized for desired excitation energies}},
+	JOURNAL = {ACS Central Science},
+	VOLUME = {4},
+	NUMBER = {9},
+	PAGES = {1126–1133},
+	YEAR= {2018}
+}
+
+@ARTICLE{Pous2018,
+	AUTHOR = {Josep Arús-Pous, Thomas Blaschke, Silas Ulander, Jean-Louis Reymond, Hongming Chen, and Ola Engkvist},
+	TITLE = {{Exploring the GDB-13 Chemical Space Using Deep Generative Models}},
+	JOURNAL = {ChemRxiv preprint},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Kadurin2016,
+	AUTHOR = {Artur Kadurin, Alexander Aliper, Andrey Kazennov, Polina Mamoshina, Quentin Vanhaelen, Kuzma Khrabrov, and Alex Zhavoronkov},
+	TITLE = {{The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology}},
+	JOURNAL = {Oncotarget},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2016}
+}
+
+@ARTICLE{Sanchez-Lengeling2017,
+	AUTHOR = {Benjamin Sanchez-Lengeling, Carlos Outeiral, Gabriel L.Guimaraes, and Alan Aspuru-Guzik},
+	TITLE = {{Optimizing distributions over molecular space. An Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry (ORGANIC)}},
+	JOURNAL = {ChemRxiv preprint},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2017}
+}
+
+@ARTICLE{You2018,
+	AUTHOR = {J. You, B. Liu, R. Ying, V. Pande, and J. Leskovec},
+	TITLE = {{Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation}},
+	JOURNAL = {arXiv e-prints: - 1806.02473},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+
+@ARTICLE{Grattarola2018,
+	AUTHOR = {Daniele Grattarola, Lorenzo Livi, and Cesare Alippi},
+	TITLE = {{Ad-versarial autoencoders with constant-curvature latent manifolds}},
+	JOURNAL = {arXiv e-prints:1812.04314},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Ikebata2017,
+	AUTHOR = {Hisaki Ikebata, Kenta Hongo, Tetsu Isomura, Ryo Maezono, and Ryo Yoshida},
+	TITLE = {{Bayesian molecular design with a chemical language model. }},
+	JOURNAL = {Journal of Computer-Aided Molecular Design},
+	VOLUME = {31},
+	NUMBER = {4},
+	PAGES = {379–391},
+	YEAR= {2017}
+}
+
+@Book{Goodfellow2016,
+	AUTHOR = {Goodfellow, I.; Bengio, Y.; Courville},
+	TITLE = {{Deep Learning}},
+	press  = {MIT Press},
+	VOLUME = {},
+	JOURNAL ={},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2016}
+}
+
+@ARTICLE{Chollet2018,
+	AUTHOR = {Chollet, F.},
+	TITLE = {{Deep learning with Python}},
+	JOURNAL = { Manning Publications Co: Shelter Island, NY},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2018}
+}
+
+@ARTICLE{Goodfellow2014,
+	AUTHOR = {I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. WardeFarley, S. Ozair, A. Courville, and Y. Bengio},
+	TITLE = {{Generative adversarial nets}},
+	JOURNAL = {NIPS},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {2672–2680},
+	YEAR= {2018}
+}
+@ARTICLE{Nowozin2016,
+	AUTHOR = {S. Nowozin, B. Cseke, and R. Tomioka},
+	TITLE = {{f-GAN: Training generative neural samplers using variational divergence minimization}},
+	CONFERENCE = {in Proceedings of the 30th International Conference on Neural Information Processing Systems},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {271–279},
+	YEAR= {2016}
+}
+@ARTICLE{Arjovsky2017,
+	AUTHOR = {M. Arjovsky, S. Chintala, and L. Bottou},
+	TITLE = {{Wasserstein generative adversarial networks}},
+	CONFERENCE = {in International conference on machine learning. PMLR},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {214–223},
+	YEAR= {2017}
+}
+
+@ARTICLE{Ramakrishnan2014,
+	AUTHOR = {R. Ramakrishnan, P. O. Dral, M. Rupp, and O. A. Von Lilienfeld},
+	TITLE = {{Quantum chemistry structures and properties of 134 kilo molecules}},
+	JOURNAL = {Scientific data},
+	VOLUME = {1},
+	NUMBER = {1},
+	PAGES = {1–7},
+	YEAR= {2014}
+}
+
+@ARTICLE{Ruddigkeit2012,
+	AUTHOR = {L. Ruddigkeit, R. Van Deursen, L. C. Blum, and J.-L. Reymond},
+	TITLE = {{Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17}},
+	JOURNAL = {Journal of chemical information and modeling},
+	VOLUME = {52},
+	NUMBER = {11},
+	PAGES = {2864–2875},
+	YEAR= {2012}
+}
+
+@ARTICLE{Sterling2015,
+	AUTHOR = {T. Sterling and J. J. Irwin},
+	TITLE = {{ZINC 15–ligand discovery for everyone}},
+	JOURNAL = {Journal of chemical information and modeling},
+	VOLUME = {55},
+	NUMBER = {11},
+	PAGES = {2324–2337},
+	YEAR= {2015}
+}
+
+@ARTICLE{Polykovskiy2020,
+	AUTHOR = {D. Polykovskiy, A. Zhebrak, B. Sanchez-Lengeling, S. Golovanov, O. Tatanov, S. Belyaev, R. Kurbanov, A. Artamonov, V. Aladinskiy, M. Veselov et al.},
+	TITLE = {{Molecular sets (MOSES): a benchmarking platform for molecular generation models}},
+	JOURNAL = {Frontiers in pharmacology},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2020}
+}
+
+@ARTICLE{Gaulton2012,
+	AUTHOR = {A. Gaulton, L. J. Bellis, A. P. Bento, J. Chambers, M. Davies, A. Hersey, Y. Light, S. McGlinchey, D. Michalovich, B. AlLazikani et al.},
+	TITLE = {{ChEMBL: a large-scale bioactivity database for drug discovery}},
+	JOURNAL = {Nucleic acids research},
+	VOLUME = {40},
+	NUMBER = {D1},
+	PAGES = {D1100–D1107},
+	YEAR= {2012}
+}
+
+@ARTICLE{Blum2009,
+	AUTHOR = {L. C. Blum and J.-L. Reymond},
+	TITLE = {{970 million druglike small molecules for virtual screening in the chemical universe database gdb-13}},
+	JOURNAL = {Journal of the American Chemical Society},
+	VOLUME = {131},
+	NUMBER = {25},
+	PAGES = {8732–8733},
+	YEAR= {2009}
+}
+
+@ARTICLE{Axelrod2020,
+	AUTHOR = {S. Axelrod and R. Gomez-Bombarelli},
+	TITLE = {{GEOM: Energy-annotated molecular conformations for property prediction and molecular generation}},
+	JOURNAL = {arXiv preprint arXiv:2006.05531},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2020}
+}
+
+@ARTICLE{Francoeur2020,
+	AUTHOR = {P. G. Francoeur, T. Masuda, J. Sunseri, A. Jia, R. B. Iovanisci, I. Snyder, and D. R. Koes},
+	TITLE = {{Three-dimensional convolutional neural networks and a cross-docked data set for structure-based drug design}},
+	JOURNAL = {Journal of Chemical Information and Modeling},
+	VOLUME = {60},
+	NUMBER = {9},
+	PAGES = {4200–4215},
+	YEAR= {2020}
+}
+
+@ARTICLE{Schutt2017,
+	AUTHOR = {K. T. Schutt, F. Arbabzadah, S. Chmiela, K. R. M ¨ uller, and ¨ A. Tkatchenko},
+	TITLE = {{Quantum-chemical insights from deep tensor neural networks}},
+	JOURNAL = {Nature communications},
+	VOLUME = {8},
+	NUMBER = {1},
+	PAGES = {1–8},
+	YEAR= {2017}
+}
+
+@ARTICLE{Xu2021,
+	AUTHOR = {Z. Xu, Y. Luo, X. Zhang, X. Xu, Y. Xie, M. Liu, K. Dickerson, C. Deng, M. Nakata, and S. Ji},
+	TITLE = {{Molecule3D: A benchmark for predicting 3d geometries from molecular graphs}},
+	JOURNAL = {arXiv preprint arXiv:2110.01717},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2021}
+}
+
+@ARTICLE{Desaphy2015,
+	AUTHOR = {J. Desaphy, G. Bret, D. Rognan, and E. Kellenberger},
+	TITLE = {{sc-PDB: a 3d-database of ligandable binding sites—10 years on}},
+	JOURNAL = {Nucleic acids research},
+	VOLUME = {43},
+	NUMBER = {D1},
+	PAGES = {D399–D404},
+	YEAR= {2015}
+}
+
+@ARTICLE{Mysinger2012,
+	AUTHOR = {M. M. Mysinger, M. Carchia, J. J. Irwin, and B. K. Shoichet},
+	TITLE = {{Directory of useful decoys, enhanced (dud-e): better ligands and decoys for better benchmarking}},
+	JOURNAL = {Journal of medicinal chemistry},
+	VOLUME = {55},
+	NUMBER = {14},
+	PAGES = {6582–6594},
+	YEAR= {2012}
+}
+@ARTICLE{Butcher2004,
+	AUTHOR = {Butcher EC, Berg EL, Kunkel EJ},
+	TITLE = {{Systems biology in drug discovery}},
+	JOURNAL = {Nat Biotechnol},
+	VOLUME = {22},
+	NUMBER = {10},
+	PAGES = {1253–1259},
+	YEAR= {2004}
+}
+@ARTICLE{Pujol2010,
+	AUTHOR = {Pujol A, Mosca R, Farres J, Aloy P},
+	TITLE = {{Unveiling the role of network and systems biology in drug discovery}},
+	JOURNAL = {Trends Pharmacol Sci},
+	VOLUME = {31},
+	NUMBER = {3},
+	PAGES = {115–123},
+	YEAR= {2010}
+}
+
+}
+@ARTICLE{Barabasi2011,
+	AUTHOR = {Albert-László Barabási, Natali Gulbahce & Joseph Loscalzo},
+	TITLE = {{Network medicine: a network-based approach to human disease}},
+	JOURNAL = {Nature Reviews Genetics},
+	VOLUME = {12},
+	NUMBER = {},
+	PAGES = {56–68},
+	YEAR= {2011}
+}
+
+@ARTICLE{Senior2020,
+	AUTHOR = {Senior, A.W., Evans, R., Jumper, J. et al.},
+	TITLE = {{Improved protein structure prediction using potentials from deep learning}},
+	JOURNAL = {Nature},
+	VOLUME = {577},
+	NUMBER = {},
+	PAGES = {706–710 },
+	YEAR= {2020}
+}
+@ARTICLE{Laurie2005,
+	AUTHOR = {Laurie, A.T.; Jackson, R.M.},
+	TITLE = {{Q-sitefinder: An energy-based method for the prediction of protein-ligand binding sites}},
+	JOURNAL = {Bioinformatics},
+	VOLUME = {21},
+	NUMBER = {},
+	PAGES = {1908–1916 },
+	YEAR= {2005}
+}
+
+@ARTICLE{Kandel2021,
+	AUTHOR = {Kandel, J., Tayara, H. & Chong, K.T.},
+	TITLE = {{PUResNet: prediction of protein-ligand binding sites using deep residual neural network}},
+	JOURNAL = {J Cheminform},
+	VOLUME = {13},
+	NUMBER = {},
+	PAGES = {65 },
+	YEAR= {2021}
+}
+
+@ARTICLE{Ahmed2021,
+	AUTHOR = {Ahmed A, Mam B, Sowdhamini R. DEELIG},
+	TITLE = {{A Deep Learning Approach to Predict Protein-Ligand Binding Affinity}},
+	JOURNAL = {Bioinform Biol Insights},
+	VOLUME = {},
+	NUMBER = {},
+	PAGES = {},
+	YEAR= {2021}
+}
+
+@ARTICLE{novel2021,
+	AUTHOR = {Pereira},
+	TITLE = {{Diversity oriented Deep Reinforcement Learning for targeted molecule generation}},
+	JOURNAL = {J Cheminform},
+	VOLUME = {13},
+	NUMBER = {21},
+	PAGES = {9-10},
+	YEAR= {2021}
+}
+
+@ARTICLE{diversity2017,
+	AUTHOR = {Mostapha Benhenda},
+	TITLE = {{ChemGAN challenge for drug discovery: can AI reproduce natural chemical diversity?}},
+	JOURNAL = {arXiv preprint arXiv:1708.08227},
+	VOLUME = {3},
+	NUMBER = {1},
+	PAGES = {2-3},
+	YEAR= {2017}
+}
+@ARTICLE{KLD2019,
+	AUTHOR = {Brown, N.; Fiscato, M.; Segler, M. H.; Vaucher, A. C},
+	TITLE = {{GuacaMol:benchmarking models for de novo molecular design}},
+	JOURNAL = {J Cheminform},
+	VOLUME = {59},
+	NUMBER = {3},
+	PAGES = {1096-1108},
+	YEAR= {2019}
+}
+@ARTICLE{frechet2018,
+	AUTHOR = {Kristina Preuer, Philipp Renz, Thomas Unterthiner, Sepp Hochreiter, and Günter Klambauer},
+	TITLE = {{Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery}},
+	JOURNAL = {J. Chem. Inf. Model},
+	VOLUME = {58},
+	NUMBER = {9},
+	PAGES = {1736-1741},
+	YEAR= {2018}
+}
+@ARTICLE{sas2009,
+	AUTHOR = {Ertl, P., Schuffenhauer, A},
+	TITLE = {{ Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions}},
+	JOURNAL = {J Cheminform},
+	VOLUME = {1},
+	NUMBER = {8},
+	PAGES = {3-5},
+	YEAR= {2009}
+}
+@ARTICLE{qed2012,
+	AUTHOR = {Bickerton GR, Paolini GV, Besnard J, Muresan S, Hopkins AL},
+	TITLE = {{Quantifying the chemical beauty of drugs}},
+	JOURNAL = {Nat Chem},
+	VOLUME = {4},
+	NUMBER = {2},
+	PAGES = {3-5},
+	YEAR= {2012}
+}
+@ARTICLE{logp2012,
+	AUTHOR = {Jacek Kujawski*, Hanna Popielarska, Anna Myka, Beata Drabińska, Marek K.Bernard},
+	TITLE = {{The log P Parameter as a Molecular Descriptor in the Computer-aided Drug Design – an Overview}},
+	JOURNAL = {COMPUTATIONAL METHODS IN SCIENCE AND TECHNOLOGY},
+	VOLUME = {18},
+	NUMBER = {2},
+	PAGES = {81-88},
+	YEAR= {2012}
+}
+@ARTICLE{tpsa2009,
+	AUTHOR = {Prasanna S, Doerksen RJ},
+	TITLE = {{Topological polar surface area: a useful descriptor in 2D-QSAR}},
+	JOURNAL = {Curr Med Chem},
+	VOLUME = {16},
+	NUMBER = {1},
+	PAGES = {21-41},
+	YEAR= {2009}
+}
+@ARTICLE{vina2010,
+	AUTHOR = {Trott O, Olson AJ},
+	TITLE = {{AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading}},
+	JOURNAL = {J Comput Chem},
+	VOLUME = {31},
+	NUMBER = {2},
+	PAGES = {2-4},
+	YEAR= {2010}
+}
+@ARTICLE{celo2020,
+	AUTHOR = {Leguy J, Cauchy T, Glavatskikh M, Duval B, Da Mota B},
+	TITLE = {{EvoMol: a flexible and interpretable evolutionary algorithm for unbiased de novo molecular generation}},
+	JOURNAL = {J Cheminform},
+	VOLUME = {12},
+	NUMBER = {1},
+	PAGES = {10-14},
+	YEAR= {2020}
+}
+@ARTICLE{rmsd2012,
+	AUTHOR = {Kufareva I, Abagyan R},
+	TITLE = {{Methods of protein structure comparison}},
+	JOURNAL = {Methods Mol Biol},
+	VOLUME = {857},
+	NUMBER = {1},
+	PAGES = {231-257},
+	YEAR= {2012}
+}
+@ARTICLE{shafts2011,
+	AUTHOR = {Xiaofeng Liu, Hualiang Jiang, and Honglin Li},
+	TITLE = {{SHAFTS: A Hybrid Approach for 3D Molecular Similarity Calculation. 1. Method and Assessment of Virtual Screening}},
+	JOURNAL = {J. Chem. Inf. Model},
+	VOLUME = {51},
+	NUMBER = {9},
+	PAGES = {2372-2385},
+	YEAR= {2011}
+}
+@ARTICLE{rocs2005,
+	AUTHOR = {Thomas S. Rush, J. Andrew Grant, Lidia Mosyak, and Anthony Nicholls},
+	TITLE = {{A Shape-Based 3-D Scaffold Hopping Method and Its Application to a Bacterial Protein−Protein Interaction}},
+	JOURNAL = { J. Med. Chem},
+	VOLUME = {48},
+	NUMBER = {5},
+	PAGES = {1489-1495},
+	YEAR= {2005}
+}
+
+

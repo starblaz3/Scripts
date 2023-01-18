@@ -1,0 +1,336 @@
+\bibitem[Bala(2018)]{0}
+Balakumar Chandrasekaran and Sara Nidal Abed and Omar Al-Attraqchi and Kaushik Kuche and Rakesh K. Tekade, T. Chapter 21 - Computer-Aided Prediction of Pharmacokinetic (ADMET) Properties. {\em Academic Press} {\bf 2018}, {\em }, 731-755
+
+\bibitem[FEFPIA(2016)]{1}
+FEFPIA M.; Marshall S.; Burghaus R.; Cosson V.; Cheung S.; Chenel M.; Dellapasqua O.; Frey N.; Hamrén B.; Harnisch L., T. Good Practices in Model-Informed Drug Discovery and Development Practice Application and Documentation.. {\em CPT Pharm. Syst. Pharmacol.} {\bf 2016}, {\em 5}, 93–122
+
+\bibitem[mullard2016bio(2016)]{2}
+Mullard Asher, T. Biotech R\&D spend jumps by more than 15\%. {\em Nature Reviews Drug Discovery} {\bf 2016}, {\em 15}, 447--448
+
+\bibitem[Bernard(2005)]{3}
+Bernard D Coop A MacKerell AD Jr, T. Conformationally sampled pharmacophore for peptidic delta. {\em J. Med. Chem} {\bf 2005}, {\em 48}, 73–80
+
+\bibitem[Duchowicz(2005)]{4}
+Duchowicz Pablo and Castro Eduardo and Fernández Francisco and Gonzalez Maykel, T. A new search algorithm of QSPR/QSAR theories Normal boiling points of some organic molecules. {\em Chemical Physics Letters} {\bf 2005}, {\em 412}, 376-380
+
+\bibitem[Wade(2004)]{5}
+Wade RC Henrich S Wang T, T. Using 3D protein structures to derive 3D-QSARs. {\em Drug Discovery Today Technologies} {\bf 2004}, {\em 1}, 241-246
+
+\bibitem[Acharya(2011)]{6}
+Acharya C Coop A Polli JE Mackerell AD Jr, T. Recent advances in ligand-based drug design relevance and utility of the conformationally sampled pharmacophore approach.. {\em Curr Comput Aided Drug Des.} {\bf 2011}, {\em 7}, 11-22
+
+\bibitem[Bohl(2004)]{7}
+Bohl CE Chang C Mohler ML Chen J Miller DD Swaan PW Dalton JT., T. A ligand-based approach to identify quantitative structure-activity relationships for the androgen receptor. {\em J. Med. Chem} {\bf 2004}, {\em 47}, 3765–76
+
+\bibitem[Winkler(2004)]{8}
+Winkler David Alan, T. Overview of Quantitative Structure–Activity Relationships (QSAR). {\em } {\bf 2004}, {\em }, 347--367
+
+\bibitem[Topliss(1979)]{9}
+Topliss JG Edwards RP, T. Chance factors in studies of quantitative structure-activity relationships. {\em J. Med. Chem} {\bf 1979}, {\em 22}, 1238–1244
+
+\bibitem[Hawkins(2001)]{10}
+Hawkins DM Basak SC Shi X, T. QSAR with few compounds and many features.. {\em J Chem Inform Comput Sci} {\bf 2001}, {\em 41}, 663–670
+
+\bibitem[Gleeson(2012)]{11}
+Gleeson MP Modi S Bender A Robinson RLM Kirchmair J Promkat-, T. The challenges involved in modeling toxicity data in silico a review. {\em Curr Pharm Des} {\bf 2012}, {\em 18}, 1266–1291
+
+\bibitem[Konovalov(2008)]{12}
+Konovalov DA Llewellyn LE Vander Heyden Y Coomans D, T. Robust cross-validation of linear regression QSAR models.. {\em J Chem Inform Model} {\bf 2008}, {\em 48}, 2081–2094
+
+\bibitem[Jaechang(2018)]{13}
+Jaechang Lim Seongok Ryu Jin Woo Kim and Woo Youn Kim, T. Molecular generative model based on conditional vari-. {\em Journal of Cheminformatics} {\bf 2018}, {\em 10}, 
+
+\bibitem[Seokho(2018)]{14}
+Seokho Kang and Kyunghyun Cho, T. Conditional molecular design with deep generative models. {\em Journal of Chemical Information and Modeling} {\bf 2018}, {\em }, 
+
+\bibitem[Shahar(2018)]{15}
+Shahar Harel and Kira Radinsky, T. Prototype-based compound discovery using deep generative models. {\em Molecular Pharmaceutics} {\bf 2018}, {\em 15}, 4406–4416
+
+\bibitem[Gomez-Bombarelli(2018)]{16}
+Rafael Gómez-Bombarelli Jennifer N. Wei David Duvenaud José Miguel Hernández-Lobato Benjamín Sánchez Lengeling Dennis Sheberla Jorge Aguilera-Iparraguirre Timothy D. Hirzel Ryan P. Adams and Alán Aspuru-Guzik, T. Automatic chemical design using a data-driven continuous representation of molecules.. {\em ACS Central Science} {\bf 2018}, {\em 4}, 268–276
+
+\bibitem[Blaschke(2017)]{17}
+Thomas Blaschke Marcus Olivecrona Ola Engkvist Jürgen Bajorath and Hongming Chen, T. Application of generative autoencoder in de novo molecular design. {\em Molecular Informatics} {\bf 2017}, {\em 37}, 
+
+\bibitem[Sattarov(2019)]{18}
+Boris Sattarov Igor I. Baskin Dragos Horvath Gilles Marcou Esben Jannik Bjerrum and Alexandre Varnek, T. De novo molecular design by combining deep autoencoder recurrent neural networks with generative topographic mapping. {\em Journal of Chemical Information and Modeling} {\bf 2019}, {\em }, 
+
+\bibitem[LENGAUER(1996)]{19}
+Thomas Lengauer and Matthias Rarey, T. Computational methods for biomolecular docking. {\em Current Opinion in Structural Biology} {\bf 1996}, {\em 6}, 402-406
+
+\bibitem[Parvu(2003)]{20}
+Parvu L, T. QSAR - a piece of drug design. {\em J Cell Mol Med} {\bf 2003}, {\em 7}, 
+
+\bibitem[PDB(2019)]{21}
+, T. Research Collaboratory for Structural Bioinformatics (2019) The Protein Data Bank (PDB). {\em } {\bf 2019}, {\em }, 
+
+\bibitem[TJ(2001)]{22}
+Ewing TJ Makino S Skillman AG Kuntz ID, T. search strategies for automated molecular docking of flexible molecule databases. {\em J Comput Aided Mol Des} {\bf 2001}, {\em 15}, 411–428
+
+\bibitem[DS(1990)]{23}
+Goodsell DS Olson AJ, T. Automated docking of substrates to proteins by simulated annealing. {\em Proteins} {\bf 1990}, {\em 8}, 195–202
+
+\bibitem[Wang(2004)]{24}
+Wang J Wolf RM Caldwell JW Kollman PA Case DA, T. Development and testing of a general amber force field. {\em J Comput Chem} {\bf 2004}, {\em 25}, 1157–74
+
+\bibitem[Vanommeslaeghe(2010)]{25}
+Vanommeslaeghe K Hatcher E Acharya C Kundu S Zhong S et al, T. CHARMM general force field a force field for drug-like molecules compatible with the CHARMM all-atom additive biological force fields. {\em J Comput Chem} {\bf 2010}, {\em 31}, 671–90
+
+\bibitem[Hou(2010)]{26}
+Hou T Wang J Li Y Wang W, T. Assessing the performance of the MM/PBSA and MM/ GBSA methods. 1. The accuracy of binding free energy calculations based on molecular dynamics simulations.. {\em J Chem Inf Model} {\bf 2010}, {\em 51}, 69–82
+
+\bibitem[Hansson(1998)]{27}
+Hansson T Marelius J Åqvist J, T. Ligand binding affinity prediction by linear interaction energy methods. {\em J Comput Aided Mol Des} {\bf 1998}, {\em 12}, 27–35
+
+\bibitem[Singh(1987)]{28}
+Singh UC Brown FK Bash PA Kollman PA, T. An approach to the application of free energy perturbation methods using molecular dynamics applications to the transformations of CH_3OH – N CH 3 CH 3  H 3 O + − N NH + 4  glycine – N alanine and alanine- phenylalanine in aqueous solution and to H 3 O + (H_2 O) 3 – N NH + 4 (H 2 O) 3 in the gas phase.. {\em J Am Chem Soc} {\bf 1987}, {\em 109}, 1607–14
+
+\bibitem[Eswar(2006)]{29}
+Eswar N Webb B Marti-Renom MA Madhusudhan MS Eramian D et.al, T. Comparative protein structure modeling using MODELLER. {\em Curr Protoc Protein Sci} {\bf 2006}, {\em }, 1-5
+
+\bibitem[Schwede(2003)]{30}
+Schwede T Kopp J Guex N Peitsch MC, T. SWISS-MODEL an automated protein homology-modeling server. {\em Nucleic Acids Res} {\bf 2003}, {\em 31}, 3381–5
+
+\bibitem[Kusner(2017)]{31}
+M. J. Kusner B. Paige and J. M. Hernández-Lobato, T. Grammar Variational Autoencoder. {\em arXiv e-prints1703.01925} {\bf 2017}, {\em }, 
+
+\bibitem[Jorgensen(2018)]{32}
+Peter Bjørn Jørgensen Murat Mesta Suranjan Shil Juan Maria García Lastra Karsten Wedel Jacobsen Kristian Sommer Thygesen and Mikkel N. Schmidt, T. Machine learning-based screening of complex molecules for polymer solar cells. {\em The Journal of Chemical Physics} {\bf 2018}, {\em 148}, 
+
+\bibitem[peter(2018)]{33}
+Peter B. Jørgensen Mikkel N. Schmidt and Ole Winther, T. Deep generative models for molecular science. {\em Molecular Informatics} {\bf 2018}, {\em 37}, 1-2
+
+\bibitem[Dai(2018)]{34}
+Hanjun Dai Yingtao Tian Bo Dai Steven Skiena and Le Song, T. Syntax-directed variational autoencoder for structured data. {\em arXiv e-prints1802.08786} {\bf 2018}, {\em }, 
+
+\bibitem[Liu(2018)]{35}
+Qi Liu Miltiadis Allamanis Marc Brockschmidt and Alexander L. Gaunt, T. Constrained graph variational autoencoders for molecule design. {\em arXiv e-prints1805.09076} {\bf 2018}, {\em }, 
+
+\bibitem[Samanta(2018)]{36}
+Bidisha Samanta Abir De Niloy Ganguly and Manuel Gomez-Rodriguez, T. Designing random graph models using variational autoencoders with applications to chemical design. {\em arXiv e-prints1802.05283} {\bf 2018}, {\em }, 
+
+\bibitem[Winter(2018)]{37}
+Robin Winter Floriane Montanari Frank NoeÌ A and Djork-ArnÃl Clevert, T. Learning Continuous and Data-Driven Molecular Descriptors by Translating Equivalent Chemical Representations. {\em ChemRxiv preprint} {\bf 2018}, {\em }, 
+
+\bibitem[Kajino(2018)]{38}
+H. Kajino, T. Molecular Hypergraph Grammar with its Application to Molecular Optimization. {\em arXiv e-prints1803.03324} {\bf 2018}, {\em }, 
+
+\bibitem[Jin(2018)]{39}
+Wengong Jin Regina Barzilay and Tommi S. Jaakkola, T. Junction tree variational autoencoder for molecular graph generation. {\em In International Conference on Learning Representations} {\bf 2018}, {\em }, 
+
+\bibitem[Jin(2019)]{40}
+Wengong Jin Kevin Yang Regina Barzilay and Tommi Jaakkola, T. Learning Multimodal Graph-to-Graph Translation for Molecular Optimization. {\em In International Conference on Learning Representations} {\bf 2019}, {\em }, 
+
+\bibitem[Bidisha(2019)]{41}
+Bidisha Samanta Abir De Gourhari Jana Pratim Kumar Chattaraj Niloy Ganguly and Manuel Gomez-Rodriguez, T. NeVAE A Deep Generative Model for Molecular Graphs. {\em arXiv e-prints1802.05283} {\bf 2019}, {\em }, 
+
+\bibitem[Simonovsky(2018)]{42}
+Martin Simonovsky and Nikos Komodakisz, T. Graphvae Towards generation of small graphs using variational autoencoders. {\em arXiv e-prints1802.03480} {\bf 2018}, {\em }, 
+
+\bibitem[Ma(2018)]{43}
+Tengfei Ma Jie Chen and Cao Xiao, T. Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders. {\em In Advances in Neural Information Processing Systems 32} {\bf 2018}, {\em }, 
+
+\bibitem[Skalic(2019)]{44}
+Miha Skalic José Jiménez Luna Davide Sabbadin and Gianni De Fabritiis, T. Shape-based generative modeling for de-novo drug design. {\em Journal of Chemical Information and Modeling (ja)} {\bf 2019}, {\em }, 
+
+\bibitem[Kuzminykh(2018)]{45}
+Denis Kuzminykh Daniil Polykovskiy Artur Kadurin Alexander Zhebrak Ivan Baskov Sergey Nikolenko Rim Shayakhmetov and Alex Zhavoronkov, T. 3d molecular representations based on the wave transform for convolutional neural networks. {\em Molecular Pharmaceutics} {\bf 2018}, {\em }, 
+
+\bibitem[Kearnes(2019)]{46}
+Steven M. Kearnes Li Li and Patrick Riley, T. Decoding molecular graph embeddings with reinforcement learning. {\em arXiv e-prints1904.08915} {\bf 2019}, {\em }, 
+
+\bibitem[Guimaraes(2017)]{47}
+G. Lima Guimaraes B. Sanchez-Lengeling C. Outeiral P. L. Cunha Farias and A. Aspuru-Guzik, T. Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models. {\em arXiv e-prints1705.10843} {\bf 2017}, {\em }, 
+
+\bibitem[Putin(2018)]{48}
+Evgeny Putin Arip Asadulaev Yan Ivanenkov Vladimir Al-adinskiy Benjamin Sanchez-Lengeling Alán Aspuru-Guzik and Alex Zhavoronkov, T. Reinforced adversarial neural computer for de novo molecular design. {\em Journal of Chemical Information and Modeling} {\bf 2018}, {\em 58}, 1194–1204
+
+\bibitem[Evgeny(2018)]{49}
+Evgeny Putin Arip Asadulaev Quentin Vanhaelen Yan Ivanenkov Anastasia V. Aladinskaya Alex Aliper and Alex Zhavoronkov, T. Adversarial threshold neural computer for molecular de novo design. {\em Molecular Pharmaceutics} {\bf 2018}, {\em }, 
+
+\bibitem[Kadurin(2017)]{50}
+Artur Kadurin Sergey Nikolenko Kuzma Khrabrov Alex Aliper and Alex Zhavoronkov, T. druGAN An advanced generative adversarial autoencoder model for de novo generation of new molecules with desired molecular properties in silico. {\em Molecular Pharmaceutics} {\bf 2017}, {\em 14}, 3098–3104
+
+\bibitem[Mendez-Lucio(2018)]{51}
+Oscar Méndez-Lucio Benoit Baillif Djork-Arné Clevert David Rouquié and Joerg Wichard, T. De novo generation of hit-like molecules from gene expression signatures using artificial intelligence. {\em ChemRxiv preprint} {\bf 2018}, {\em }, 
+
+\bibitem[Cao(2018)]{52}
+Nicola De Cao and Thomas Kipf, T. MolGAN An implicit generative model for small molecular graphs. {\em ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models} {\bf 2018}, {\em }, 
+
+\bibitem[DeCao(2018)]{53}
+N. De Cao and T. Kipf, T. MolGAN An implicit generative model for small molecular graphs. {\em arXiv e-prints1805.11973} {\bf 2018}, {\em }, 
+
+\bibitem[Maziarka(2020)]{54}
+Łukasz Maziarka Agnieszka Pocha Jan Kaczmarczyk, T. Mol-cyclegan - a generative model for molecular optimization. {\em Journal of Cheminformatics} {\bf 2020}, {\em 12}, 1758-2946
+
+\bibitem[Merk(2018)]{55}
+Daniel Merk Lukas Friedrich Francesca Grisoni and Gisbert Schneider, T. De novo design of bioactive small molecules by artificial intelligence. {\em Molecular Informatics} {\bf 2018}, {\em 37}, 
+
+\bibitem[Daniel(2018)]{56}
+Daniel Merk Francesca Grisoni Lukas Friedrich and Gisbert Schneider, T. Tuning artificial intelligence on the de novo design of natural-product-inspired retinoid X receptor modulators. {\em Communications Chemistry} {\bf 2018}, {\em 1}, 
+
+\bibitem[Ertl(2017)]{57}
+P. Ertl R. Lewis E. Martin and V. Polyakov, T. In silico generation of novel drug-like chemical matter using the LSTM neural network. {\em arXiv e-prints} {\bf 2017}, {\em }, 
+
+\bibitem[Neil(2018)]{58}
+Daniel Neil Marwin Segler Laura Guasch Mohamed Ahmed Dean Plumbley Matthew Sellwood and Nathan, T. Exploring deep recurrent models with reinforcement learning for molecule design. {\em In International Conference on Learning Representations} {\bf 2018}, {\em }, 
+
+\bibitem[Popova(2018)]{59}
+Mariya Popova Olexandr Isayev and Alexander Tropsha, T. Deep reinforcement learning for de novo drug design. {\em Science Advances} {\bf 2018}, {\em 4}, 
+
+\bibitem[G(2017)]{60}
+Anvita Gupta Alex T. Müller Berend J. H. Huisman Jens A., T. Generative recurrent networks for de novo drug design. {\em Molecular Informatics} {\bf 2017}, {\em 37}, 
+
+\bibitem[Marwin(2017)]{61}
+Marwin H. S. Segler Thierry Kogej Christian Tyrchan and Mark P. Waller, T. Generating focused molecule libraries for drug discovery with recurrent neural networks. {\em ACS Central Science} {\bf 2017}, {\em 4}, 120–131
+
+\bibitem[Li(2018)]{62}
+Y. Li O. Vinyals C. Dyer R. Pascanu and P. Battaglia, T. Learning Deep Generative Models of Graphs. {\em arXiv e-prints1803.03324} {\bf 2018}, {\em }, 
+
+\bibitem[pogany(2018)]{63}
+Peter Pogány Navot Arad Sam Genway and Stephen D. Pickett, T. De novo molecule design by translating from reduced graphs to SMILES. {\em Journal of Chemical Information and Modeling} {\bf 2018}, {\em }, 
+
+\bibitem[Bjerrum(2017)]{64}
+E. Jannik Bjerrum and R. Threlfall, T. Molecular Generation with Recurrent Neural Networks (RNNs). {\em JarXiv e-prints1705.04612} {\bf 2017}, {\em }, 
+
+\bibitem[Yang(2017)]{65}
+Xiufeng Yang Jinzhe Zhang Kazuki Yoshizoe Kei Terayama and Koji Tsuda, T. ChemTS an efficient python library for de novo molecular generation. {\em Science and Technology of Advanced Materials} {\bf 2017}, {\em 18}, 972–976
+
+\bibitem[Cherti(2017)]{66}
+Mehdi Cherti Balázs Kégl and Akın Kazakçı, T. De novo drug design with deep generative models an empirical study. {\em In International Conference on Learning Representations work-shop track Toulon France} {\bf 2017}, {\em }, 
+
+\bibitem[Zheng(2019)]{67}
+Shuangjia Zheng Xin Yan Qiong Gu Yuedong Yang Yunfei Du Yutong Lu and Jun Xu, T. QBMG quasi-biogenic molecule generator with deep recurrent neural network. {\em Journal of Cheminformatics} {\bf 2019}, {\em 11}, 
+
+\bibitem[Olivecrona(2017)]{68}
+Marcus Olivecrona Thomas Blaschke Ola Engkvist and Hongming Chen, T. Molecular de-novo design through deep re-inforcement learning. {\em Journal of Cheminformatics} {\bf 2017}, {\em 9}, 
+
+\bibitem[Sumita(2018)]{69}
+Masato Sumita Xiufeng Yang Shinsuke Ishihara Ryo Tamura and Koji Tsuda, T. Hunting for organic molecules with artificial intelligence Molecules optimized for desired excitation energies. {\em ACS Central Science} {\bf 2018}, {\em 4}, 1126–1133
+
+\bibitem[Pous(2018)]{70}
+Josep Arús-Pous Thomas Blaschke Silas Ulander Jean-Louis Reymond Hongming Chen and Ola Engkvist, T. Exploring the GDB-13 Chemical Space Using Deep Generative Models. {\em ChemRxiv preprint} {\bf 2018}, {\em }, 
+
+\bibitem[Kadurin(2016)]{71}
+Artur Kadurin Alexander Aliper Andrey Kazennov Polina Mamoshina Quentin Vanhaelen Kuzma Khrabrov and Alex Zhavoronkov, T. The cornucopia of meaningful leads Applying deep adversarial autoencoders for new molecule development in oncology. {\em Oncotarget} {\bf 2016}, {\em }, 
+
+\bibitem[Sanchez-Lengeling(2017)]{72}
+Benjamin Sanchez-Lengeling Carlos Outeiral Gabriel L.Guimaraes and Alan Aspuru-Guzik, T. Optimizing distributions over molecular space. An Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry (ORGANIC). {\em ChemRxiv preprint} {\bf 2017}, {\em }, 
+
+\bibitem[You(2018)]{73}
+J. You B. Liu R. Ying V. Pande and J. Leskovec, T. Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation. {\em arXiv e-prints - 1806.02473} {\bf 2018}, {\em }, 
+
+\bibitem[Grattarola(2018)]{74}
+Daniele Grattarola Lorenzo Livi and Cesare Alippi, T. Ad-versarial autoencoders with constant-curvature latent manifolds. {\em arXiv e-prints1812.04314} {\bf 2018}, {\em }, 
+
+\bibitem[Ikebata(2016)]{75}
+Goodfellow I.; Bengio Y.; Courville, T. Deep Learning. {\em } {\bf 2016}, {\em }, 
+
+\bibitem[Chollet(2018)]{76}
+Chollet F., T. Deep learning with Python. {\em Manning Publications Co Shelter Island NY} {\bf 2018}, {\em }, 
+
+\bibitem[Goodfellow(2018)]{77}
+I. Goodfellow J. Pouget-Abadie M. Mirza B. Xu D. WardeFarley S. Ozair A. Courville and Y. Bengio, T. Generative adversarial nets. {\em NIPS} {\bf 2018}, {\em }, 2672–2680
+
+\bibitem[Nowozin(2016)]{78}
+S. Nowozin B. Cseke and R. Tomioka, T. f-GAN Training generative neural samplers using variational divergence minimization. {\em } {\bf 2016}, {\em }, 271–279
+
+\bibitem[Arjovsky(2017)]{79}
+M. Arjovsky S. Chintala and L. Bottou, T. Wasserstein generative adversarial networks. {\em } {\bf 2017}, {\em }, 214–223
+
+\bibitem[Ramakrishnan(2014)]{80}
+R. Ramakrishnan P. O. Dral M. Rupp and O. A. Von Lilienfeld, T. Quantum chemistry structures and properties of 134 kilo molecules. {\em Scientific data} {\bf 2014}, {\em 1}, 1–7
+
+\bibitem[Ruddigkeit(2012)]{81}
+L. Ruddigkeit R. Van Deursen L. C. Blum and J.-L. Reymond, T. Enumeration of 166 billion organic small molecules in the chemical universe database GDB-17. {\em Journal of chemical information and modeling} {\bf 2012}, {\em 52}, 2864–2875
+
+\bibitem[Sterling(2015)]{82}
+T. Sterling and J. J. Irwin, T. ZINC 15–ligand discovery for everyone. {\em Journal of chemical information and modeling} {\bf 2015}, {\em 55}, 2324–2337
+
+\bibitem[Polykovskiy(2020)]{83}
+D. Polykovskiy A. Zhebrak B. Sanchez-Lengeling S. Golovanov O. Tatanov S. Belyaev R. Kurbanov A. Artamonov V. Aladinskiy M. Veselov et al., T. Molecular sets (MOSES) a benchmarking platform for molecular generation models. {\em Frontiers in pharmacology} {\bf 2020}, {\em }, 
+
+\bibitem[Gaulton(2012)]{84}
+A. Gaulton L. J. Bellis A. P. Bento J. Chambers M. Davies A. Hersey Y. Light S. McGlinchey D. Michalovich B. AlLazikani et al., T. ChEMBL a large-scale bioactivity database for drug discovery. {\em Nucleic acids research} {\bf 2012}, {\em 40}, D1100–D1107
+
+\bibitem[Blum(2009)]{85}
+L. C. Blum and J.-L. Reymond, T. 970 million druglike small molecules for virtual screening in the chemical universe database gdb-13. {\em Journal of the American Chemical Society} {\bf 2009}, {\em 131}, 8732–8733
+
+\bibitem[Axelrod(2020)]{86}
+S. Axelrod and R. Gomez-Bombarelli, T. GEOM Energy-annotated molecular conformations for property prediction and molecular generation. {\em arXiv preprint arXiv2006.05531} {\bf 2020}, {\em }, 
+
+\bibitem[Francoeur(2020)]{87}
+P. G. Francoeur T. Masuda J. Sunseri A. Jia R. B. Iovanisci I. Snyder and D. R. Koes, T. Three-dimensional convolutional neural networks and a cross-docked data set for structure-based drug design. {\em Journal of Chemical Information and Modeling} {\bf 2020}, {\em 60}, 4200–4215
+
+\bibitem[Schutt(2017)]{88}
+K. T. Schutt F. Arbabzadah S. Chmiela K. R. M ¨ uller and ¨ A. Tkatchenko, T. Quantum-chemical insights from deep tensor neural networks. {\em Nature communications} {\bf 2017}, {\em 8}, 1–8
+
+\bibitem[Xu(2021)]{89}
+Z. Xu Y. Luo X. Zhang X. Xu Y. Xie M. Liu K. Dickerson C. Deng M. Nakata and S. Ji, T. Molecule3D A benchmark for predicting 3d geometries from molecular graphs. {\em arXiv preprint arXiv2110.01717} {\bf 2021}, {\em }, 
+
+\bibitem[Desaphy(2015)]{90}
+J. Desaphy G. Bret D. Rognan and E. Kellenberger, T. sc-PDB a 3d-database of ligandable binding sites—10 years on. {\em Nucleic acids research} {\bf 2015}, {\em 43}, D399–D404
+
+\bibitem[Mysinger(2012)]{91}
+M. M. Mysinger M. Carchia J. J. Irwin and B. K. Shoichet, T. Directory of useful decoys enhanced (dud-e) better ligands and decoys for better benchmarking. {\em Journal of medicinal chemistry} {\bf 2012}, {\em 55}, 6582–6594
+
+\bibitem[Butcher(2004)]{92}
+Butcher EC Berg EL Kunkel EJ, T. Systems biology in drug discovery. {\em Nat Biotechnol} {\bf 2004}, {\em 22}, 1253–1259
+
+\bibitem[Pujol(2010)]{93}
+Pujol A Mosca R Farres J Aloy P, T. Unveiling the role of network and systems biology in drug discovery. {\em Trends Pharmacol Sci} {\bf 2010}, {\em 31}, 115–123
+
+\bibitem[Barabasi(2011)]{94}
+Albert-László Barabási Natali Gulbahce & Joseph Loscalzo, T. Network medicine a network-based approach to human disease. {\em Nature Reviews Genetics} {\bf 2011}, {\em 12}, 56–68
+
+\bibitem[Senior(2020)]{95}
+Senior A.W. Evans R. Jumper J. et al., T. Improved protein structure prediction using potentials from deep learning. {\em Nature} {\bf 2020}, {\em 577}, 706–710
+
+\bibitem[Laurie(2005)]{96}
+Laurie A.T.; Jackson R.M., T. Q-sitefinder An energy-based method for the prediction of protein-ligand binding sites. {\em Bioinformatics} {\bf 2005}, {\em 21}, 1908–1916
+
+\bibitem[Kandel(2021)]{97}
+Kandel J. Tayara H. & Chong K.T., T. PUResNet prediction of protein-ligand binding sites using deep residual neural network. {\em J Cheminform} {\bf 2021}, {\em 13}, 65
+
+\bibitem[Ahmed(2021)]{98}
+Ahmed A Mam B Sowdhamini R. DEELIG, T. A Deep Learning Approach to Predict Protein-Ligand Binding Affinity. {\em Bioinform Biol Insights} {\bf 2021}, {\em }, 
+
+\bibitem[novel(2021)]{99}
+Pereira, T. Diversity oriented Deep Reinforcement Learning for targeted molecule generation. {\em J Cheminform} {\bf 2021}, {\em 13}, 9-10
+
+\bibitem[diversity(2017)]{100}
+Mostapha Benhenda, T. ChemGAN challenge for drug discovery can AI reproduce natural chemical diversity?. {\em arXiv preprint arXiv1708.08227} {\bf 2017}, {\em 3}, 2-3
+
+\bibitem[KLD(2019)]{101}
+Brown N.; Fiscato M.; Segler M. H.; Vaucher A. C, T. GuacaMolbenchmarking models for de novo molecular design. {\em J Cheminform} {\bf 2019}, {\em 59}, 1096-1108
+
+\bibitem[frechet(2018)]{102}
+Kristina Preuer Philipp Renz Thomas Unterthiner Sepp Hochreiter and Günter Klambauer, T. Fréchet ChemNet Distance A Metric for Generative Models for Molecules in Drug Discovery. {\em J. Chem. Inf. Model} {\bf 2018}, {\em 58}, 1736-1741
+
+\bibitem[sas(2009)]{103}
+Ertl P. Schuffenhauer A, T. Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions. {\em J Cheminform} {\bf 2009}, {\em 1}, 3-5
+
+\bibitem[qed(2012)]{104}
+Bickerton GR Paolini GV Besnard J Muresan S Hopkins AL, T. Quantifying the chemical beauty of drugs. {\em Nat Chem} {\bf 2012}, {\em 4}, 3-5
+
+\bibitem[logp(2012)]{105}
+Jacek Kujawski* Hanna Popielarska Anna Myka Beata Drabińska Marek K.Bernard, T. The log P Parameter as a Molecular Descriptor in the Computer-aided Drug Design – an Overview. {\em COMPUTATIONAL METHODS IN SCIENCE AND TECHNOLOGY} {\bf 2012}, {\em 18}, 81-88
+
+\bibitem[tpsa(2009)]{106}
+Prasanna S Doerksen RJ, T. Topological polar surface area a useful descriptor in 2D-QSAR. {\em Curr Med Chem} {\bf 2009}, {\em 16}, 21-41
+
+\bibitem[vina(2010)]{107}
+Trott O Olson AJ, T. AutoDock Vina improving the speed and accuracy of docking with a new scoring function efficient optimization and multithreading. {\em J Comput Chem} {\bf 2010}, {\em 31}, 2-4
+
+\bibitem[celo(2020)]{108}
+Leguy J Cauchy T Glavatskikh M Duval B Da Mota B, T. EvoMol a flexible and interpretable evolutionary algorithm for unbiased de novo molecular generation. {\em J Cheminform} {\bf 2020}, {\em 12}, 10-14
+
+\bibitem[rmsd(2012)]{109}
+Kufareva I Abagyan R, T. Methods of protein structure comparison. {\em Methods Mol Biol} {\bf 2012}, {\em 857}, 231-257
+
+\bibitem[shafts(2011)]{110}
+Xiaofeng Liu Hualiang Jiang and Honglin Li, T. SHAFTS A Hybrid Approach for 3D Molecular Similarity Calculation. 1. Method and Assessment of Virtual Screening. {\em J. Chem. Inf. Model} {\bf 2011}, {\em 51}, 2372-2385
+
+\bibitem[rocs(2005)]{111}
+Thomas S. Rush J. Andrew Grant Lidia Mosyak and Anthony Nicholls, T. A Shape-Based 3-D Scaffold Hopping Method and Its Application to a Bacterial Protein−Protein Interaction. {\em J. Med. Chem} {\bf 2005}, {\em 48}, 1489-1495
+
