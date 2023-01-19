@@ -54,7 +54,7 @@ for x in range(len(file)):
         file[x]["pages"]=""    
 output=""
 for i in range(len(file)):
-    output+=r"\bibitem[{}({})]{{{}}}".format(file[i]["refTitle"][:-4],file[i]["year"],i)+"\n"+r"{}, T. {}. {{\em {}}} {{\bf {}}}, {{\em {}}}, {}".format(file[i]["author"],file[i]["title"],file[i]["journal"],file[i]["year"],file[i]["volume"],file[i]["pages"],)+"\n\n"
+    output+=r"\bibitem[{}({})]{{{}{}}}".format(file[i]["refTitle"][:-4],file[i]["year"],file[i]["refTitle"][:-4],file[i]["year"])+"\n"+r"{}, T. {}. {{\em {}}} {{\bf {}}}, {{\em {}}}, {}".format(file[i]["author"],file[i]["title"],file[i]["journal"],file[i]["year"],file[i]["volume"],file[i]["pages"],)+"\n\n"
 outputFile=open("output.txt","w+")
 outputFile.write(output)
 outputFile.close()
