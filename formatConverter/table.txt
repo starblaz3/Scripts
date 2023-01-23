@@ -1,0 +1,50 @@
+VAE  & SMILES & ZINC  &  \cite{Jaechang2018}  \\ \hline   
+VAE	& SMILES &  ZINC  &   \cite{Seokho2018} \\ \hline  
+VAE	& SMILES  &  ZINC  & \cite{Shahar2018}	 \\ \hline
+VAE	& SMILES  &  ZINC/QM9 &	\cite{Gomez-Bombarelli2018} \\ \hline
+VAE	& SMILES &	ChEMBL  &    \cite{Blaschke2017}\\ \hline
+VAE	& SMILES &	ChEMBL  &    \cite{Blaschke2017}\\ \hline
+VAE	& SMILES &	ChEMBL23  &    \cite{Sattarov2019}\\ \hline
+GVAE	& CFG (SMILES) &	ZINC  &    \cite{Kusner2017}\\ \hline
+GVAE	& CFG(custom) &	PSC  &    \cite{Jorgensen2018, peter2018}\\ \hline
+SD-VAE & CFG(custom) & ZINC & \cite{Dai2018} \\ \hline
+CVAE & Graph & ZINC/CEPDB & \cite{Liu2018} \\ \hline
+VAE & Graph & ZINC/QM9 & \cite{Samanta2018} \\ \hline
+VAE & Graph & ZINC+PubChem & \cite{Winter2018} \\ \hline
+MHG-VAE & Graph(MHG) & ZINC & \cite{Kajino2018} \\ \hline
+JT-VAE & Graph(operation) & ZINC & \cite{Jin2018} \\ \hline
+JT-VAE & Graph(operation) & ZINC & \cite{Jin2019} \\ \hline
+VAE & Graph(Tensor) & ZINC & \cite{Bidisha2018} \\ \hline
+VAE & Graph(Tensor) & ZINC/QM9 & \cite{Simonovsky2018} \\ \hline
+VAE & Graph(Tensor) & ZINC & \cite{Ma2018} \\ \hline
+CVAE & 3D density & ZINC & \cite{Skalic2019} \\ \hline
+VAE & 3D wave transform & ZINC & \cite{Kuzminykh2018} \\ \hline
+VAE+RL & MPNN+graph ops & ZINC & \cite{Kearnes2019} \\ \hline
+GAN & SMILES & GBD-17 & \cite{Guimaraes2017} \\ \hline
+GAN(ANC) & SMILES & ZINC/CHEMDIV & \cite{Putin2018} \\ \hline
+GAN(ATNC) & SMILES & ZINC/CHEMDIV & \cite{Evgeny2018} \\ \hline
+GAN & MACCS (166bit) & MCF-7 & \cite{Kadurin2017} \\ \hline
+sGAN & MACCS (166bit) & L1000 & \cite{Mendez-Lucio2018} \\ \hline
+GAN & graph (tensors) & QM9 & \cite{DeCao2018,Cao2018} \\ \hline
+CycleGAN & graph operation & ZINC & \cite{Maziarka2020} \\ \hline
+RNN & SMILES & ChEMBL & \cite{Merk2018} \\ \hline
+RNN & SMILES & ChEMBL & \cite{Daniel2018} \\ \hline
+RNN & SMILES & ChEMBL & \cite{Ertl2017} \\ \hline
+RNN & SMILES & ChEMBL & \cite{Neil2018} \\ \hline
+RNN & SMILES & ChEMBL & \cite{Popova2018} \\ \hline
+RNN & SMILES & ChEMBL & \cite{Gupta} \\ \hline
+RNN & SMILES & ChEMBL & \cite{Marwin2017} \\ \hline
+RNN & graph operations & ChEMBL & \cite{Li2018} \\ \hline
+RNN & RG+SMILES & ChEMBL & \cite{pogany2018} \\ \hline
+RNN & SMILES & ZINC & \cite{Bjerrum2017} \\ \hline
+RNN & SMILES & ZINC & \cite{Yang2017} \\ \hline
+RNN & SMILES & ZINC & \cite{Cherti2017} \\ \hline
+RNN & SMILES & ZINC & \cite{Zheng2019} \\ \hline
+RNN & SMILES & DRD2 & \cite{Olivecrona2017} \\ \hline
+RNN & SMILES & PubChemQC & \cite{Sumita2018} \\ \hline
+RNN & SMILES & GDB-13 & \cite{Pous2018} \\ \hline
+AAE & MACCS(166 bit) & MCF-7 & \cite{Kadurin2016} \\ \hline
+AAE & SMILES & HCEP & \cite{Sanchez-Lengeling2017} \\ \hline
+GCPN & graph & ZINC & \cite{You2018} \\ \hline
+CCM-AAE & graph (tensors) & QM9 & \cite{Grattarola2018} \\ \hline
+BMI & SMILES & PubChem & \cite{Ikebata2017} \\ \hline

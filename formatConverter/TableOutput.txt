@@ -1,0 +1,350 @@
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& SMILES
+& ZINC
+& \cite{Jaechang2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& SMILES
+& ZINC
+& \cite{Seokho2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& SMILES
+& ZINC
+& \cite{Shahar2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& SMILES
+& ZINC/QM9
+& \cite{Gomez-Bombarelli2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& SMILES
+& ChEMBL
+& \cite{Blaschke2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& SMILES
+& ChEMBL
+& \cite{Blaschke2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& SMILES
+& ChEMBL23
+& \cite{Sattarov2019} \\
+
+\midrule
+\multirow[m]{1}{*}
+{GVAE}
+& CFG (SMILES)
+& ZINC
+& \cite{Kusner2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{GVAE}
+& CFG(custom)
+& PSC
+& \cite{Jorgensen2018, peter2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{SD-VAE}
+& CFG(custom)
+& ZINC
+& \cite{Dai2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{CVAE}
+& Graph
+& ZINC/CEPDB
+& \cite{Liu2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& Graph
+& ZINC/QM9
+& \cite{Samanta2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& Graph
+& ZINC+PubChem
+& \cite{Winter2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{MHG-VAE}
+& Graph(MHG)
+& ZINC
+& \cite{Kajino2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{JT-VAE}
+& Graph(operation)
+& ZINC
+& \cite{Jin2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{JT-VAE}
+& Graph(operation)
+& ZINC
+& \cite{Jin2019} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& Graph(Tensor)
+& ZINC
+& \cite{Bidisha2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& Graph(Tensor)
+& ZINC/QM9
+& \cite{Simonovsky2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& Graph(Tensor)
+& ZINC
+& \cite{Ma2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{CVAE}
+& 3D density
+& ZINC
+& \cite{Skalic2019} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE}
+& 3D wave transform
+& ZINC
+& \cite{Kuzminykh2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{VAE+RL}
+& MPNN+graph ops
+& ZINC
+& \cite{Kearnes2019} \\
+
+\midrule
+\multirow[m]{1}{*}
+{GAN}
+& SMILES
+& GBD-17
+& \cite{Guimaraes2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{GAN(ANC)}
+& SMILES
+& ZINC/CHEMDIV
+& \cite{Putin2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{GAN(ATNC)}
+& SMILES
+& ZINC/CHEMDIV
+& \cite{Evgeny2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{GAN}
+& MACCS (166bit)
+& MCF-7
+& \cite{Kadurin2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{sGAN}
+& MACCS (166bit)
+& L1000
+& \cite{Mendez-Lucio2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{GAN}
+& graph (tensors)
+& QM9
+& \cite{DeCao2018,Cao2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{CycleGAN}
+& graph operation
+& ZINC
+& \cite{Maziarka2020} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ChEMBL
+& \cite{Merk2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ChEMBL
+& \cite{Daniel2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ChEMBL
+& \cite{Ertl2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ChEMBL
+& \cite{Neil2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ChEMBL
+& \cite{Popova2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ChEMBL
+& \cite{Gupta} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ChEMBL
+& \cite{Marwin2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& graph operations
+& ChEMBL
+& \cite{Li2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& RG+SMILES
+& ChEMBL
+& \cite{pogany2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ZINC
+& \cite{Bjerrum2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ZINC
+& \cite{Yang2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ZINC
+& \cite{Cherti2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& ZINC
+& \cite{Zheng2019} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& DRD2
+& \cite{Olivecrona2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& PubChemQC
+& \cite{Sumita2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{RNN}
+& SMILES
+& GDB-13
+& \cite{Pous2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{AAE}
+& MACCS(166 bit)
+& MCF-7
+& \cite{Kadurin2016} \\
+
+\midrule
+\multirow[m]{1}{*}
+{AAE}
+& SMILES
+& HCEP
+& \cite{Sanchez-Lengeling2017} \\
+
+\midrule
+\multirow[m]{1}{*}
+{GCPN}
+& graph
+& ZINC
+& \cite{You2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{CCM-AAE}
+& graph (tensors)
+& QM9
+& \cite{Grattarola2018} \\
+
+\midrule
+\multirow[m]{1}{*}
+{BMI}
+& SMILES
+& PubChem
+& \cite{Ikebata2017} \\
+

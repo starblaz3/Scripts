@@ -20,7 +20,7 @@ from pprint import pprint
 from signal import signal, SIGPIPE, SIG_DFL
 signal(SIGPIPE,SIG_DFL)
 
-inputFile=open("./data.txt","r")
+inputFile=open("./ref.txt","r")
 file=inputFile.read()
 inputFile.close()
 file=re.split("@article",file,flags=re.IGNORECASE)
@@ -53,8 +53,10 @@ for x in range(len(file)):
     if "pages" not in file[x].keys():
         file[x]["pages"]=""    
 output=""
+pprint(file[0])
 for i in range(len(file)):
-    output+=r"\bibitem[{}({})]{{{}{}}}".format(file[i]["refTitle"][:-4],file[i]["year"],file[i]["refTitle"][:-4],file[i]["year"])+"\n"+r"{}, T. {}. {{\em {}}} {{\bf {}}}, {{\em {}}}, {}".format(file[i]["author"],file[i]["title"],file[i]["journal"],file[i]["year"],file[i]["volume"],file[i]["pages"],)+"\n\n"
-outputFile=open("output.txt","w+")
+    output+=r"\bibitem[{}({})]{{{}}}".format(file[i]["refTitle"][:-4],file[i]["year"],file[i]["refTitle"])+"\n"+r"{}, T. {}. {{\em {}}} {{\bf {}}}, {{\em {}}}, {}".format(file[i]["author"],file[i]["title"],file[i]["journal"],file[i]["year"],file[i]["volume"],file[i]["pages"],)+"\n\n"
+outputFile=open("refOutput.txt","w+")
 outputFile.write(output)
 outputFile.close()
+
